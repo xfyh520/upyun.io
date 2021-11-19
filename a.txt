@@ -1,21 +1,6 @@
+检查更新
 
-<head>
-<script type="text/javascript">
-function go(o)
-{
-document.getElementById("sb").innerHTML += "打我" + o;
-}
-function go2(o)
-{
-document.getElementById("sb").innerHTML += "打我" + o;
-iapp.s("sss.sb", document.getElementById("sb").innerHTML);
-}
-</script>
-</head>
-<p id="sb">哈哈，你来</p>
-</html>
+😂😂😂
 
 
-
-
-
+更新地址：upyunxf.com
